@@ -1,4 +1,4 @@
-# Caltech Introduction to Programming for the Biological Sciences Bootcamp
+# :p Caltech Introduction to Programming for the Biological Sciences Bootcamp
 
 This repository contains files for use in the bootcamp.
 
